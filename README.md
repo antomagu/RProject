@@ -33,7 +33,7 @@ Join the two Database into one:
 <br />
 <img src="https://i.imgur.com/EOqBMEW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />  https://i.imgur.com/3iMpJbo.png
+<br />  
 
 If you want to see the entire R code click **[HERE](https://github.com/antomagu/RCodes/tree/main)**:
 
