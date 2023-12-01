@@ -44,8 +44,11 @@ If you want to see the entire R code click here
 Final graph of percentage of employees by department <br/> 
 <img src="https://i.imgur.com/a22rcav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br /> 
+ 
+<img src="https://i.imgur.com/jDXzVAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br />
 <h2>Conclusions</h2>  
 
 - <b>The United States is the country with the most active volcanoes in the world</b> 
