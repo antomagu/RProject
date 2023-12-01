@@ -30,6 +30,11 @@ Join the two Database into one:
 <img src="https://i.imgur.com/tV4PIfL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<img src="https://i.imgur.com/EOqBMEW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+If you want to see the entire R code click here
 
 <h2>Data Vizualization</h2>  
 
