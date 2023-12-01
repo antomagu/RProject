@@ -21,7 +21,6 @@ Data was taken from Kaggel profiles with data available for use, in csv files
 
 The most important indicators are age, length of service, gender, number of employees and department.</h2>
 
-If you want to see the original tables click **[HERE](https://github.com/antomagu/ActiveVolcanosQuerys/tree/main)**:
 <p align="center">
 Cleanning the Data:  <br/>
 <img src="https://i.imgur.com/LciSCNq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -36,7 +35,7 @@ Join the two Database into one:
 <br />
 <br />  https://i.imgur.com/3iMpJbo.png
 
-If you want to see the entire R code click **[HERE](https://github.com/antomagu/ActiveVolcanosQuerys/tree/main)**:
+If you want to see the entire R code click **[HERE](https://github.com/antomagu/RCodes/tree/main)**:
 
 <h2>Data Vizualization</h2>  
 
