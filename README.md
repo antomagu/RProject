@@ -21,11 +21,13 @@ Data was taken from Kaggel profiles with data available for use, in csv files
 
 The most important indicators are age, length of service, gender, number of employees and department.</h2>
 
+If you want to see the original tables click here
 <p align="center">
 Cleanning the Data:  <br/>
 <img src="https://i.imgur.com/LciSCNq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<p align="center">
 Join the two Database into one: 
 <img src="https://i.imgur.com/tV4PIfL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
