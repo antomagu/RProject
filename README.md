@@ -39,7 +39,7 @@ If you want to see the entire R code click here
 <h2>Data Vizualization</h2>  
 
 <p align="center">
-Dashboard <br/> 
+Final graph of percentage of employees by department <br/> 
 <img src="https://i.imgur.com/bwdZmI0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
