@@ -41,7 +41,7 @@ If you want to see the entire R code click **[HERE](https://github.com/antomagu/
 
 <p align="center"> 
 Final graph of percentage of employees by department <br/> 
-<img src="https://i.imgur.com/a22rcav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/smb0fqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
  
