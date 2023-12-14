@@ -28,7 +28,7 @@ Cleanning the Data:  <br/>
 <br />
 <p align="center">
 Join the two Database into one: 
-<img src="https://i.imgur.com/tV4PIfL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/h2et2CG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="https://i.imgur.com/EOqBMEW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
