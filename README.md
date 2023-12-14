@@ -45,7 +45,7 @@ Final graph of percentage of employees by department <br/>
 <br />
 <br /> 
  
-<img src="https://i.imgur.com/jDXzVAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/7lE23QG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h2>Conclusions</h2>  
