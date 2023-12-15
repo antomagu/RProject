@@ -23,7 +23,7 @@ The most important indicators are age, length of service, gender, number of empl
 
 <p align="center">
 Cleanning the Data:  <br/>
-<img src="https://imgur.com/7ASJVY5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qiXCHPF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
