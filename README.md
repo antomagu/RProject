@@ -1,20 +1,18 @@
-<h1>HR,Employee Information</h1>
+<h1>HR,Employee Information</h1>  
 
-<h2>Description</h2>
-This project explores different metrics in the area of human resources with the creation of a report with graphs on the current situation of the company in order to improve certain departments to be a more equitable company in terms of gender in addition to refreshing certain areas with new employees.
-<br />
+|  |  | |
+| ----------- | ----------- | ----------|
+| <b>Industry focus  </b> | - <b>HR </b> |  |
+|<b> Description  </b>  | - <b>This project explores different metrics in the area of human resources with the creation of a report with graphs on the current situation of the company in order to improve certain departments to be a more equitable company in terms of gender in addition to refreshing certain areas with new employees</b> | |
+|<b> Objective </b> | - <b>The objective is to create graphs that show the gender equality that exists in the company by department and seniority by age. The conclusions will give us the areas of opportunity where this aspect must be improved. </b> |  |
+|<b> Tools used  </b> | - <b>R Studio</b>|  |
+|<b> Deliverables </b>  | - <b>An analysis of all the company's employees describing your findings and recommendations  to be a company with more gender equality in all areas</b> | |
+|<b> Dataset list </b> |- <b> The data was extracted from Kaggel https://www.kaggle.com/datasets/arashnic/hr-ana </b>|  |
+|<b>Questions that will drive the analysis</b>  | - <b>Which department has the greatest percent of women working and which the least?</b>  - <b>Which department has the youngest employees?</b>  - <b> What is the number of employees by gender in the company?</b>  | |
 
-### Objectives:
-The objective is to create graphs that show the gender equality that exists in the company by department and seniority by age. The conclusions will give us the areas of opportunity where this aspect must be improved.
 
-Questions that will drive the analysis
-Which department has the greatest percent of women working and which the least?
-Which department has the youngest employees?
-What is the number of employees by gender in the company?
 
-<h2>The tools used were</h2>
 
-- <b>R Studio</b>
 
 <h2>Data transformation and Data preparation:</h2>   
 Data was taken from Kaggel profiles with data available for use, in csv files
