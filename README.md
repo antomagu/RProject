@@ -21,17 +21,14 @@ The most important indicators are age, length of service, gender, number of empl
 
 <p align="center">
 Cleanning the Data:  <br/>
-<img src="https://i.imgur.com/qiXCHPF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+ 
+![Cleaning data](https://github.com/antomagu/RProject/assets/152213287/95705fec-06fb-4d0f-af82-ea9ba7109128.png)
+
 <p align="center">
 Join the two Database into one: 
-<img src="https://imgur.com/h2et2CG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/EOqBMEW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />  
+
+![Captura de pantalla 2023-11-17 120901](https://github.com/antomagu/RProject/assets/152213287/cc3d5548-9870-4c35-872c-44ef113ccbe1.png)
+
 
 If you want to see the entire R code click **[HERE](https://www.kaggle.com/antonioguev/hr-employee-information)**:
 
@@ -39,13 +36,13 @@ If you want to see the entire R code click **[HERE](https://www.kaggle.com/anton
 
 <p align="center"> 
 Final graph of percentage of employees by department <br/> 
-<img src="https://imgur.com/smb0fqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br /> 
+
  
-<img src="https://imgur.com/7lE23QG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+![Captura de pantalla 2023-12-15 174136](https://github.com/antomagu/RProject/assets/152213287/697dab95-cad6-414b-8060-57802acfdda7.png)
+
+![Percentage_employees](https://github.com/antomagu/RProject/assets/152213287/dcc6b46b-551a-40a6-8f22-1f957ae9b821.png)
+
+
 <h2>Conclusions</h2>  
 
 - <b>If the company wants to be an equitable company in all departments, it must hire 31,886 women in the following years</b> 
