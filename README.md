@@ -3,12 +3,12 @@
 |  |  | |
 | ----------- | ----------- | ----------|
 | <b>Industry focus  </b> | - <b>HR </b> |  |
-|<b> Description  </b>  | - <b>This project explores different metrics in the area of human resources with the creation of a report with graphs on the current situation of the company in order to improve certain departments to be a more equitable company in terms of gender in addition to refreshing certain areas with new employees</b> | |
-|<b> Objective </b> | - <b>The objective is to create graphs that show the gender equality that exists in the company by department and seniority by age. The conclusions will give us the areas of opportunity where this aspect must be improved. </b> |  |
+|<b> Description  </b>  | - <b>This project explores different metrics in the area of human resources with the creation of a report with graphics on the current situation of the company in order to improve certain departments to be a more equitable company in terms of gender in addition to refreshing certain areas with others new employees</b> | |
+|<b> Objective </b> | - <b>The objective is to analyze the difference that exists in the company in terms of gender equality, employees with the longest years of service with those with the shortest, as well as those who have the greatest possibilities of being promoted.The conclusions will give us the areas of opportunity where this aspect must be improved. </b> |  |
 |<b> Tools used  </b> | - <b>R Studio</b>|  |
-|<b> Deliverables </b>  | - <b>An analysis of all the company's employees describing your findings and recommendations  to be a company with more gender equality in all areas</b> | |
+|<b> Deliverables </b>  | - <b>An analysis of all the company's employees describing your findings and recommendations.s</b> | |
 |<b> Dataset list </b> |- <b> The data was extracted from Kaggel https://www.kaggle.com/datasets/arashnic/hr-ana </b>|  |
-|<b>Questions that will drive the analysis</b>  | - <b>Which department has the greatest percent of women working and which the least?</b>  - <b>Which department has the youngest employees?</b>  - <b> What is the number of employees by gender in the company?</b>  | |
+|<b>Questions that will drive the analysis</b>  | - <b>Which department has the greatest percent of women working and which the least?</b>  - <b>Which department has the youngest employees?</b>  - <b> What is the number of employees by gender in the company? - <b> Number of training sessions that each employee obtained based on their age, sex, training and time in the company  - <b> What is the age at which you are most likely to get a promotion? - <b>| |
 
 
 
