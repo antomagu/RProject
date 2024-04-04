@@ -36,7 +36,14 @@ If you want to see the entire R code click **[HERE](https://www.kaggle.com/code/
 
 ![Captura de pantalla 2023-12-15 174136](https://github.com/antomagu/RProject/blob/main/Captura%20de%20pantalla%202024-04-04%20111421.png)
 
-![Percentage_employees](https://github.com/antomagu/RProject/assets/152213287/dcc6b46b-551a-40a6-8f22-1f957ae9b821.png)
+
+![Age Distribution](https://github.com/antomagu/RProject/blob/main/plot4.png)
+
+
+![Age for number of Trainings](https://github.com/antomagu/RProject/blob/main/plot8.png)
+
+
+![Percentage_employees](https://github.com/antomagu/RProject/blob/main/plot9.png)
 
 
 <h2>Conclusions</h2>  
