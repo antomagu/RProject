@@ -46,21 +46,38 @@ If you want to see the entire R code click **[HERE](https://www.kaggle.com/code/
 
 <h2>Conclusions</h2>  
 
+
+- <b>The department has the highest percentage of women working is Procurement with almost 50%</b>
+  
+- <b>R&D is the department with the lowest percentage of female employees</b>
+
+- <b>Technology is the department with the youngest employees</b>
+
+- <b>In the train file there are 14,808 women and 33,852 men</b>
+
+- <b>In the test file there are 6,234 women and 14,585 men.</b>
+
+- <b> The greatest number of trainings occurs between the ages of 30 and 35, but the difference between men and women is almost 1,000 more trainings for women.</b>
+
+- <b>The age that has the most promotions is between 30 and 35 years old and being male</b>
+  
 - <b>If the company wants to be an equitable company in all departments, it must hire 31,886 women in the following years</b> 
 
 - <b>The least equitable departments are Analytics with almost the entire department being only Male employees, Legal with 75% and R&D with 80%.</b>
 
-- <b>The departments with the most Female employees are Technology and Procurement but still far from 50%</b>
+- <b>The departments after Procurement with the most Female employees are H&R and Operations but still far from 50%</b>
+
+- <b>The median years of service is 5 years.</b>
+
+- <b>The average age in the company is 34 years.</b>
+
+- <b>Employees with less than 10 years in the company are those who obtain the best qualifications in training, especially female employees.</b>
+
+- <b>The largest number of trainings occurs among employees between 30 and 39 years old. Female employees receive more than a thousand more training sessions than male employees.</b>
  
-- <b>The department with the youngest employees is Technology</b>
 
-- <b>The department with the longest and oldest employees is Sales and Marketing.</b>
 
-- <b>In the entire company, 23,206 women and 55,092 men work.</b>
 
-- <b>The department with the largest number of employees is Sales & Marketing with 24,155.</b>
-
-- <b>The department with the smallest number of employees is R & D with 1439</b>
 
 
 
