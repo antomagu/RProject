@@ -30,7 +30,7 @@ Cleanning the Data:  <br/>
 
 If you want to see the entire R code click **[HERE](https://www.kaggle.com/code/antonioguev/employee-promotion)**:
 
-<h2>Data Vizualization</h2>  
+<h2>Data Visualization</h2>  
 
 <p align="center"> 
 
